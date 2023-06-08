@@ -27,18 +27,18 @@ And oh, I'm learning piano from scratch. So, key signatures!
 By default, it runs on Simplified Chinese.
 
 ```
-  ./test.pl [-gbk] [-zh] [-en]
-      -gbk    use gbk encoding instead of utf8 for output
-              (usually you never need this)
-              ps. Simplified Chinese Windows sucks.
-      -zh     set language to Simplified Chinese
-      -en     set language to English
+./test.pl [-gbk] [-zh] [-en]
+    -gbk    use gbk encoding instead of utf8 for output
+            (usually you never need this)
+            ps. Simplified Chinese Windows sucks.
+    -zh     set language to Simplified Chinese
+    -en     set language to English
 ```
 
 On Windows, you may need to do:
 
 ```
-  perl -CSDA ./test.pl [other_arguments]
+perl -CSDA ./test.pl [other_arguments]
 ```
 
 to run correctly.
