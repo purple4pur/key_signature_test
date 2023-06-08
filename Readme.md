@@ -35,4 +35,12 @@ By default, it runs on Simplified Chinese.
       -en     set language to English
 ```
 
+On Windows, you may need to do:
+
+```
+  perl -CSDA ./test.pl [other_arguments]
+```
+
+to run correctly.
+
 When in the test, submit anything invalid to show the help message.
