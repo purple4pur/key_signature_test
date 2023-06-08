@@ -1,5 +1,7 @@
 # Key Signature Test
 
+[English] [[简体中文]](./Readme_zh.md)
+
 Test your key signature learning in the terminal!
 
 ## Background
