@@ -14,7 +14,7 @@ sub new {
     $self->{string}  = undef;
     $self->{all_string} = {
         title => [
-            "  Test Your Scale Learning!",
+            "   Test Your Key Learning!",
             "       调式知识小测验！",
         ],
         quiz => [
