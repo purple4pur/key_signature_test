@@ -104,7 +104,7 @@ sub set_lang {
 }
 
 sub loop_langs {
-    my ($self) = shift;
+    my $self = shift;
     $self->set_lang( ($self->{lang} + 1) % @{$self->{langs}} );
     return $self->{langs}[$self->{lang}];
 }
