@@ -4,6 +4,8 @@
 
 Test your key signature learning in the terminal!
 
+Related video: [两天速通 Perl 基础，写个简单能用的 i18n 模块！](https://www.bilibili.com/video/BV1PX4y1b7xU)
+
 ## Background
 
 I always have an interest in script languages like Bash, to provide an
